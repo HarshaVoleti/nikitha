@@ -6,8 +6,8 @@
       </div>
     </div>
     <div class="text-container">
-      <h1 class="name">Nikitha <span class="highlight">Something</span></h1>
-      <p class="tagline">Creative Designer & Developer</p>
+      <h1 class="name">Nikitha <span class="highlight">Pulineni</span></h1>
+      <p class="tagline">Software Developer</p>
     </div>
   </div>
 </template>
