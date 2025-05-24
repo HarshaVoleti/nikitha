@@ -24,7 +24,6 @@
     </div>
   </div>
 </template>
-
 <script>
 export default {
   name: 'ExperienceSection',
@@ -33,29 +32,24 @@ export default {
       experiences: [
         {
           id: 1,
-          company: 'Tech Company One',
-          position: 'Senior Frontend Developer',
-          period: '2021 - Present',
+          company: 'CENTUM',
+          position: 'JAVA Full Stack development',
+          period: 'Present',
           responsibilities: [
-            'Led a team of 5 developers in building responsive web applications',
-            'Implemented new features using Vue.js and improved performance by 40%',
-            'Mentored junior developers and conducted code reviews'
+            'Currently undergoing HCL training'
           ],
-          skills: ['Vue.js', 'JavaScript', 'SCSS', 'Git', 'Agile']
+          skills: ['Java', 'Full Stack']
         },
         {
           id: 2,
-          company: 'Digital Agency',
-          position: 'Web Developer',
-          period: '2019 - 2021',
+          company: 'GRADIOUS TECHNOLOGIES',
+          position: 'Frontend Developer',
+          period: 'JUN 2023-DEC 2023',
           responsibilities: [
-            'Developed and maintained client websites using modern technologies',
-            'Collaborated with designers to implement pixel-perfect layouts',
-            'Optimized website performance and SEO'
+            'Trained as a frontend developer'
           ],
-          skills: ['HTML5', 'CSS3', 'JavaScript', 'React', 'WordPress']
-        },
-        // Add more experiences as needed
+          skills: ['Frontend Development']
+        }
       ]
     }
   }

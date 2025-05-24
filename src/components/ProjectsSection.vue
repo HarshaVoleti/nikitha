@@ -33,21 +33,20 @@ export default {
       projects: [
         {
           id: 1,
-          title: 'Project One',
-          description: 'A beautiful project with amazing features',
+          title: 'AI Enabled Music Recommendation System',
+          description: 'Developed an AI-based music recommendation system using machine learning algorithms like cosine similarity for personalized music recommendations. Led a team of 3 members as Team Leader.',
           image: require('@/assets/logo.png'),
-          github: 'https://github.com/username/project1',
+          github: '',
           website: ''
         },
         {
           id: 2,
-          title: 'Project Two',
-          description: 'Another awesome project with cool features',
+          title: 'Portfolio Website',
+          description: 'Designed and developed a portfolio website using HTML and CSS.',
           image: require('@/assets/logo.png'),
-          github: 'https://github.com/username/project2',
-          website: 'https://project2.com'
-        },
-        // Add more projects as needed
+          github: '',
+          website: ''
+        }
       ]
     }
   },

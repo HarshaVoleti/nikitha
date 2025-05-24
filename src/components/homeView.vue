@@ -3,7 +3,12 @@
     <div class="hero">
       <ProfileHeader />
       <div class="description">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        <p>Innovative Software Engineer with a strong foundation in programming and problem solving. I am
+          enthusiastic about contributing to innovative projects and collaborating with cross-functional teams to
+          solve complex business challenges. Committed to continuous learning and professional growth, I am
+          excited about the opportunity to gain valuable skills, receive mentorship from industry professionals, and
+          progress towards leadership roles within the organization.
+        </p>
       </div>
     </div>
     <SkillsSection />

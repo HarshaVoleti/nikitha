@@ -8,6 +8,7 @@
     <div class="text-container">
       <h1 class="name">Nikitha <span class="highlight">Pulineni</span></h1>
       <p class="tagline">Software Developer</p>
+      <p class="contact-info">Hyderabad | Phone: 9908068540 | Email: pulinaninikitha@gmail.com</p>
     </div>
   </div>
 </template>
